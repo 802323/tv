@@ -573,33 +573,6 @@ Jak-TV,tvbus://6cc7yZ1PCAPx8ZtNAo6LQHkKog3FpFFoCEB7LcrzsDUrgUz9hSvQvoGwHJJAT
 极限电影台,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR 
 
 
-松視1,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=402r
-松視2,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=403r
-松視3,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=404r
-彩虹E,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=405r
-彩虹K,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=406r
-HOT,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=407r
-香蕉台,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=408r
-驚豔台,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=409r
-潘朵拉完美,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=3410r
-潘朵拉粉紅,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=411r
-happy,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=412r
-彩虹電影,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=413r
-一本道,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=414r
-二本道,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=415r
-東京熱,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=416r
-Hustler HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=451r
-Redlight HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=452r
-Pr?vate TV,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=453r
-Dorcel HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=454r
-Vivid Red HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=455r
-Erox HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=456r
-Super One HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=457r
-Babes TV HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=458r
-SEX ATION HD,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=459r
-Passie,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=461r
-SCT Classic,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=462r
-
 等待恢复18+_kkkk,#genre#
 JStar极限电影台,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
 惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
@@ -622,29 +595,27 @@ Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvme
 Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
 等待恢复+_kkkk,#genre# 
-HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
-??
-彩虹電影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
-??
-彩虹e臺,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
-??
-彩虹K??臺,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
-??
-松視1臺HD,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
-??
-松視2臺HD,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
-??
-松視3臺,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
-??
-香蕉臺??HD,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
-??
-潘多拉粉紅 HD,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
-??
-潘多拉完美台,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
-??
-驚艶成人電影臺,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
-Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+彩虹电影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf#p5p://104.194.8.20:20012/5f3f2b350002131a0a40b263a63e9fdf
+
+彩虹e台,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619#p5p://104.194.8.20:20012/5f3f2a7800019ef50a3dcffdb1daa619
+
+彩虹K频道,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156#p5p://104.194.8.20:20012/5f3f2b9e0005cb370a424d7f07df7156
+
+松视1,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c#p5p://104.194.8.20:20012/5f3f2c2b000f126c0a4476a7dee5d96c
+
+松视2,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e#p5p://104.194.8.20:20012/5f486541000e03532e4b74511bfe562e
+
+松视3,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd#p5p://104.194.8.20:20012/5f3f2cc700001f430a46d433c00cd7cd
+
+香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f#p5p://104.194.8.20:20012/5f3f24c1000af48d0a277f8997de9d5f
+
+潘多拉玩美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23#p5p://104.194.8.20:20012/5f3f278f00023acc0a3271fd50ba8d23
+
+潘多拉粉红,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31#p5p://104.194.8.20:20012/5f3f26e00005c41d0a2fc74dc6d2ac31
+
+惊艳电影台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2#p5p://104.194.8.20:20012/5f3f25da000e99280a2bca20680560c2
+HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d#p5p://104.194.8.20:20012/5f3f2a31000938130a3cbc97aa35e26d
+HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f#p5p://104.194.8.20:20012/5f3f298b000350920a3a32a46e3f183f
 
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
