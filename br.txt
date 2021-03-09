@@ -613,16 +613,16 @@ Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunkl
 HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d#p5p://104.194.8.20:20012/5f3f2a31000938130a3cbc97aa35e26d
 HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f#p5p://104.194.8.20:20012/5f3f298b000350920a3a32a46e3f183f
 
-测试0,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-测试3,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
-测试6,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
+潘多拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
+松视2,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+松视1,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
 测试8,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
 测试9,mitv://fccseuro.pvbox.live:18912/5c7249c70005b4431d57b8b006c16529
-测试11,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-测试14,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-测试15,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
-测试18,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
-测试19,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+惊艳电影台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+HOT,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
+彩虹K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
+彩虹e台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
 
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
